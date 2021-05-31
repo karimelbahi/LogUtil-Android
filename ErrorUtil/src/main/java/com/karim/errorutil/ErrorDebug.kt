@@ -6,7 +6,7 @@ object  ErrorDebug {
 
     private val TAG: String = "SUPER_AWESOME_APP_LIB"
 
-    public fun errorr(message: String) {
+     fun error(message: String) {
         Log.e(TAG, message)
     }
 }
