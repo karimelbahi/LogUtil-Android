@@ -1,0 +1,48 @@
+[33mcommit 141b25977f6c54a8120c91c07e75b3e754c5e055[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: karimelbahi <karimmaster333@gmail>
+Date:   Mon May 31 13:29:28 2021 +0200
+
+    2th Edit for DebugUtil and ErrorUtil moduls
+
+[33mcommit 18ccadf3017be2517479b9f7fbb4bb09ead73112[m
+Author: karimelbahi <karimmaster333@gmail>
+Date:   Mon May 31 13:05:16 2021 +0200
+
+    Edit DebugUtil and ErrorUtil moduls
+
+[33mcommit a561c2bc89144b7e9d0266464d331e8cc3f6de2d[m
+Merge: 8e92948 06ca901
+Author: karimelbahi <karimmaster333@gmail>
+Date:   Mon May 31 11:36:18 2021 +0200
+
+    Merge branch 'main' of https://github.com/karimelbahi/LogUtil-Android into main
+
+[33mcommit 8e9294894006a39422c887360081d978d47f70eb[m
+Author: karimelbahi <karimmaster333@gmail>
+Date:   Mon May 31 11:34:46 2021 +0200
+
+    Creata new module for easy error debug logging
+
+[33mcommit 06ca901d364c52f5e14408bd71044c5aed759191[m
+Author: karimelbahi <karimmaster333@gmail.com>
+Date:   Mon May 31 11:07:53 2021 +0200
+
+    Update README
+
+[33mcommit cd7e1e0f62840d44398d8efe65b2af59d26be1c4[m
+Author: karimelbahi <karimmaster333@gmail.com>
+Date:   Mon May 31 11:07:33 2021 +0200
+
+    Update README
+
+[33mcommit 0dd7dbffce8890e8ae9b2c70702b0ef764a22080[m
+Author: karimelbahi <karimmaster333@gmail.com>
+Date:   Mon May 31 11:06:55 2021 +0200
+
+    Create README
+
+[33mcommit 31d1686e413b5920987429db49f89beebef5f3a5[m[33m ([m[1;33mtag: 0.1.0[m[33m)[m
+Author: karimelbahi <karimmaster333@gmail>
+Date:   Mon May 31 10:27:39 2021 +0200
+
+    fitst commit for first lib
